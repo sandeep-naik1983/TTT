@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        //There is comment added here
+        //This is test for code comment
     }
 }
